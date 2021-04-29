@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+}
+.shopping-feed{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.bucket-List{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
